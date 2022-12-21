@@ -7,7 +7,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   // Contract Address & ABI
-  const contractAddress = "0x80A96554cd197930773b20c0387bC4C9E4E7bAbf";
+  const contractAddress = "0xa7f1df589c6b3a979664bba80fae393ebab70991";
   const contractABI = abi.abi;
 
   // Component state
